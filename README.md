@@ -1,7 +1,7 @@
-# Formulario Simples com Qt
+# Formulário Simples com Qt
 Apliquei conceitos de input e saidas de dados
 
-## Motivacao
+## Motivação
 Criar interfaces interirativas com QT, entendendo saidas e entradsa de dados
 
 
