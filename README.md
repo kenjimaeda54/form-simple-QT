@@ -2,7 +2,7 @@
 Apliquei conceitos de input e saidas de dados
 
 ## Motivação
-Criar interfaces interirativas com QT, entendendo saidas e entradsa de dados
+Criar interfaces interirativas com QT, entendendo saidas e entrada de dados
 
 
 ## Feature
