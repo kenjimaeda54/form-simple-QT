@@ -158,5 +158,13 @@ void Data_Personal::Show_Data(QString name, QString lastName, QString email)
 
 }
 ``` 
+##
+## Screen Shoot
+
+![form.jpeg](https://github.com/kenjimaeda54/form-simple-QT/blob/develop/form.jpeg)
+![dataForm.jpeg](https://github.com/kenjimaeda54/form-simple-QT/blob/develop/dataForm.jpeg)
+
+
+
 
 
